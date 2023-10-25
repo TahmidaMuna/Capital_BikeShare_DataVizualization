@@ -1,7 +1,7 @@
 ## Case Study Description
 **Capital Bike Share** is a well-established bike sharing company based in Washington D.C., offering a comprehensive bike-sharing service that has over 700 stations and a collection of approximately 6000 bikes throughout the metro area. This Company wants to expand their business and increase the number of Cycles to approximately5000 bikes While discussing it on a meeting  with business development team, the challenge arrives, **how and where would they distribute these extra bikes?** Initially they developed some questions on two major key area- **High Bike Usage Location** and **Peak Times/Seasons for Bike Usage** to aid their investigation. 
 
-  1. Which areas or stations has the higher number of bike usage in terms of bike arrival departure?
+  1. Which areas or stations has the higher number of bike usage in terms of bike arrival and departure?
   2. In which time of the day, people use bikes the most?
   3. Is people’s bike usage varying in season?
 
